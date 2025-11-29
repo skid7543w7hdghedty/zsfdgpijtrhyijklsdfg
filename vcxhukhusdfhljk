@@ -210,6 +210,7 @@ local keyNames = {
     [Enum.KeyCode.LeftControl] = 'LCTRL';
     [Enum.KeyCode.RightControl] = 'RCTRL';
     [Enum.KeyCode.LeftShift] = 'LSHIFT';
+    [Enum.KeyCode.RightShift] = 'RSHIFT';
     [Enum.KeyCode.Insert] = 'INSERT';
     [Enum.UserInputType.MouseButton1] = 'MB1';
     [Enum.UserInputType.MouseButton2] = 'MB2';
